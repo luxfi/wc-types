@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="wc-types" width="880"></p>
+
 # WalletConnect Types
 
 Typescript Types for WalletConnect
